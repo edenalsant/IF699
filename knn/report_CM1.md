@@ -1,4 +1,4 @@
-## Report for weighted knn execution
+## Report for knn execution - CM1
 
 ### k equals 1
 **mean accuracy**: 80.58775510204082
