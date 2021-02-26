@@ -53,4 +53,3 @@ class WeightedKNN:
             return b'true'
         else:
             return b'false'
-        #return most_common[0][0]

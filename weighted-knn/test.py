@@ -25,11 +25,10 @@ def main():
     #load CM1
     data = arff.loadarff('./datasets/CM1.arff')
 
-    # separate data from labels
     X, Y = build_dataframe(data)
 
-    # normalize data
     X = normalize_data(X)
+    
 
     # create k-fold splits
     kf = KFold(n_splits=10)
