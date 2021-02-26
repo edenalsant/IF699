@@ -31,8 +31,7 @@ class KNN:
             distances.append(euclidian_distance(x, row))
 
         # Get k nearest samples, labels
-        k_indices = np.argsort(distances)[:self.k]
-
+        k_indices = np.argsort(distances)[:self.k] #argsort returns the indices of the sorted array
         k_nearest_labels = [self.y_train.iloc[i] for i in k_indices]
 
         # Majority vote, most common class label
