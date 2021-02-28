@@ -8,7 +8,7 @@ def  euclidian_distance(x1, x2):
 
     return np.sqrt(np.sum((x-x2)**2))
 
-class AdaptativeKNN:
+class AdaptiveKNN:
 
     def __init__(self, k):
         self.k = k

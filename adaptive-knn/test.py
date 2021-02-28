@@ -4,7 +4,7 @@ from sklearn.model_selection import KFold
 import numpy as np
 from sklearn import preprocessing
 import time
-from adaptative_knn import AdaptativeKNN
+from adaptive_knn import AdaptiveKNN
 
 def normalize_data(X):
     arr = X.values
@@ -35,7 +35,7 @@ def main():
 
     # instanciate classifier
     for k in K:
-        clf = AdaptativeKNN(k=3)
+        clf = AdaptiveKNN(k=3)
         print("k equals {}".format(k))
 
         
