@@ -6,8 +6,8 @@ import pandas as pd
 def generate_graph(alg_name, data_set_name, execution_time, hit_rate):
     knn_data = pd.DataFrame({
     'k': [1,2,3,5,7,9,11,13,15],
-    'execution_time': execution_time, #[105.08, 99.70, 91.37, 89.40, 106.92, 93.50, 92.14, 93.01, 98.81],
-    'hit_rate': hit_rate #hit_rate[80.58,80.58,84.59,86.6,88.4,89.00,89.00,89.60,89.80],
+    'execution_time': execution_time,
+    'hit_rate': hit_rate
     })
 
     x = knn_data.k
