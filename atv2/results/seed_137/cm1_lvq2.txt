@@ -1,0 +1,8 @@
+k equals 1
+mean accuracy: 92.83625730994152
+standard deviation: 3.5864930202444043
+time elapsed: 12.967845916748047
+k equals 3
+mean accuracy: 92.83625730994152
+standard deviation: 3.5864930202444043
+time elapsed: 12.909904479980469

@@ -1,0 +1,13 @@
+k equals 1
+mean accuracy: 92.83625730994152
+standard deviation: 3.5864930202444043
+time elapsed: 10.908060073852539
+k equals 3
+mean accuracy: 92.83625730994152
+standard deviation: 3.5864930202444043
+time elapsed: 10.860605001449585
+
+498 instancias (original)
+
+#seed = 98
+182 protótipos

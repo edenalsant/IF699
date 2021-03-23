@@ -1,0 +1,10 @@
+k equals 1
+mean accuracy: 70.35632183908044
+standard deviation: 23.670875455453398
+time elapsed: 36.04331660270691
+k equals 3
+mean accuracy: 66.81609195402298
+standard deviation: 28.682850375579058
+time elapsed: 38.94730520248413
+
+296 protótipos

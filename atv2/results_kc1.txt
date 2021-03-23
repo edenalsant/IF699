@@ -1,0 +1,67 @@
+KC1
+
+KNN
+K = 1
+Hit rate = 74.6872037914692
+Execution Time = 2410.320837497711
+
+K = 3
+Hit rate = 79.52471225457006
+Execution Time = 1721.5718579292297
+
+(1459 protótipos)
+LVQ1
+
+K = 1
+Hit rate = 71.38214454416627
+Execution Time = 691.9402220249176
+
+K = 3
+Hit rate = 81.70004723665565
+Execution Time = 696.9440393447876
+
+
+LVQ2.1
+K = 1
+Hit rate = 71.38214454416627
+Execution Time = 769.8018033504486
+
+K = 3
+Hit rate = 81.70004723665565
+Execution Time = 804.8568801879883
+LVQ3 
+K = 1
+Hit rate = 71.38214454416627
+Execution Time = 1479.697550535202
+
+K = 3
+Hit rate = 81.70004723665565
+Execution Time = 1497.4469010829926
+
+(296 protótipos)
+
+LVQ1
+K = 1
+Hit rate = 70.35632183908044
+Execution Time = 36.04331660270691
+
+K = 3
+Hit rate = 66.81609195402298
+Execution Time = 38.94730520248413
+
+LVQ2.1
+K = 1
+Hit rate = 71.38214454416627
+Execution Time = 759.0307996273041
+
+K = 3
+Hit rate = 81.70004723665565
+Execution Time = 734.5951497554779
+
+LVQ3
+K = 1
+Hit rate = 71.38214454416627
+Execution Time = 714.4990203380585
+K = 3
+Hit rate = 81.70004723665565
+Execution Time = 723.4398777484894
