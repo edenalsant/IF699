@@ -1,0 +1,60 @@
+k = 3
+acerto no falsos: 54.92%
+the results for tests were (expected all to be false):
+["b'false'" "b'true'" "b'true'" "b'true'" "b'true'" "b'false'" "b'true'"
+ "b'false'" "b'false'" "b'false'" "b'true'" "b'false'" "b'true'" "b'true'"
+ "b'true'" "b'true'" "b'true'" "b'true'" "b'false'" "b'true'" "b'false'"
+ "b'true'" "b'false'" "b'true'" "b'false'" "b'true'" "b'true'" "b'false'"
+ "b'false'" "b'true'" "b'true'" "b'true'" "b'false'" "b'true'" "b'false'"
+ "b'true'" "b'false'" "b'false'" "b'false'" "b'true'" "b'false'" "b'true'"
+ "b'true'" "b'true'" "b'false'" "b'false'" "b'true'" "b'false'" "b'true'"
+ "b'true'" "b'false'" "b'false'" "b'false'" "b'false'" "b'false'"
+ "b'false'" "b'true'" "b'true'" "b'true'" "b'false'" "b'true'" "b'true'"
+ "b'false'" "b'true'" "b'false'" "b'false'" "b'true'" "b'false'" "b'true'"
+ "b'false'" "b'false'" "b'true'" "b'false'" "b'true'" "b'true'" "b'false'"
+ "b'true'" "b'false'" "b'false'" "b'false'" "b'true'" "b'false'" "b'true'"
+ "b'false'" "b'true'" "b'false'" "b'false'" "b'true'" "b'false'" "b'true'"
+ "b'true'" "b'true'" "b'false'" "b'true'" "b'false'" "b'false'" "b'true'"
+ "b'true'" "b'true'" "b'true'" "b'false'" "b'false'" "b'false'" "b'false'"
+ "b'false'" "b'true'" "b'false'" "b'true'" "b'true'" "b'true'" "b'true'"
+ "b'true'" "b'true'" "b'true'" "b'true'" "b'false'" "b'false'" "b'true'"
+ "b'false'" "b'false'" "b'false'" "b'false'" "b'false'" "b'true'"
+ "b'false'" "b'true'" "b'false'" "b'false'" "b'true'" "b'false'"
+ "b'false'" "b'false'" "b'false'" "b'false'" "b'false'" "b'false'"
+ "b'false'" "b'true'" "b'false'" "b'true'" "b'true'" "b'false'" "b'false'"
+ "b'true'" "b'false'" "b'false'" "b'true'" "b'true'" "b'true'" "b'false'"
+ "b'true'" "b'false'" "b'true'" "b'false'" "b'true'" "b'true'" "b'true'"
+ "b'false'" "b'false'" "b'true'" "b'false'" "b'false'" "b'false'"
+ "b'true'" "b'false'" "b'false'" "b'false'" "b'true'" "b'false'" "b'true'"
+ "b'false'" "b'false'" "b'false'" "b'true'" "b'false'" "b'false'"
+ "b'false'" "b'true'" "b'false'" "b'false'" "b'false'" "b'true'"
+ "b'false'" "b'false'" "b'false'" "b'true'" "b'true'" "b'true'" "b'true'"
+ "b'true'" "b'false'" "b'false'" "b'false'" "b'false'" "b'true'"
+ "b'false'" "b'false'" "b'false'" "b'true'" "b'false'" "b'false'"
+ "b'true'" "b'false'" "b'false'" "b'false'" "b'false'" "b'true'"
+ "b'false'" "b'false'" "b'false'" "b'true'" "b'false'" "b'false'"
+ "b'true'" "b'true'" "b'true'" "b'false'" "b'true'" "b'false'" "b'false'"
+ "b'true'" "b'true'" "b'false'" "b'false'" "b'false'" "b'false'" "b'true'"
+ "b'false'" "b'true'" "b'true'" "b'false'" "b'false'" "b'true'" "b'true'"
+ "b'false'" "b'true'" "b'false'" "b'false'" "b'false'" "b'false'"
+ "b'false'" "b'false'" "b'true'" "b'true'" "b'false'" "b'false'" "b'true'"
+ "b'true'" "b'false'" "b'true'" "b'false'" "b'false'" "b'false'"
+ "b'false'" "b'true'" "b'false'" "b'false'" "b'false'" "b'false'"
+ "b'false'" "b'false'" "b'true'" "b'false'" "b'false'" "b'true'" "b'true'"
+ "b'false'" "b'true'" "b'false'" "b'true'" "b'true'" "b'true'" "b'true'"
+ "b'true'" "b'false'" "b'false'" "b'false'" "b'false'" "b'true'" "b'true'"
+ "b'true'" "b'true'" "b'false'" "b'false'" "b'true'" "b'false'" "b'true'"
+ "b'false'" "b'false'" "b'true'" "b'false'" "b'true'" "b'true'" "b'true'"
+ "b'true'" "b'true'" "b'false'" "b'true'" "b'false'" "b'false'" "b'true'"
+ "b'false'" "b'true'" "b'false'" "b'false'" "b'false'" "b'true'" "b'true'"
+ "b'true'" "b'false'" "b'true'" "b'false'" "b'false'" "b'true'" "b'false'"]
+time elapsed
+35.841307163238525
+
+
+acerto no verdadeiros: 53.06%
+the results for outlies were (expected all to be true):
+["b'true'","b'false'","b'false'","b'true'","b'true'","b'true'","b'false'","b'false'","b'true'","b'false'","b'true'","b'true'","b'false'","b'true'","b'false'","b'false'","b'true'","b'true'","b'false'","b'false'","b'true'","b'false'","b'false'","b'true'","b'true'","b'true'","b'true'","b'true'","b'false'","b'true'","b'false'","b'false'","b'false'","b'false'","b'true'","b'true'","b'true'","b'false'","b'false'","b'true'","b'false'","b'true'","b'true'","b'true'","b'true'","b'false'","b'false'","b'false'","b'true'"]
+
+time elapsed
+5.317610740661621
